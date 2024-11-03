@@ -1,4 +1,4 @@
-# FunnyBone Project: A Laugh a Day Keeps the Bugs Away! 😂
+# FunnyBone Project: 😂 A Laugh a Day Keeps the Bugs Away! 
 
 Welcome to the **FunnyBone Project**! Here, we take our coding as seriously as we take our jokes—meaning, not very seriously at all! This project is designed to tickle your funny bone while providing some useful tools and scripts to lighten your programming life.
 
