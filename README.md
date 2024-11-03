@@ -10,7 +10,7 @@ Welcome to the **FunnyBone Project**! Here, we take our coding as seriously as w
 - [Contributing](#contributing)
 - [License](#license)
 
-## ❤️ Introduction 
+## 📝 Introduction 
 
 Are you tired of long hours staring at code that just won't cooperate? Do you find yourself laughing at your own bugs? Well, you’re in the right place! The **FunnyBone Project** is here to help you navigate the coding chaos with a smile. Our mission? To turn every “error” into an “uh-oh” and every “bug” into a “feature!”
 
@@ -20,7 +20,7 @@ Are you tired of long hours staring at code that just won't cooperate? Do you fi
 - **Random Joke Generator**: Feeling down? Get a chuckle with just one command! (Warning: May cause snorts!)
 - **Witty Documentation**: Our docs are filled with puns and light-hearted explanations—because who said documentation has to be boring?
 
-## 😁 Installation
+## 🖥 Installation
 
 Getting started is as easy as pie (or at least easier than finding your keys)! Just clone the repo and install the dependencies:
 
