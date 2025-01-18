@@ -8,7 +8,7 @@ Welcome to the **FunnyBone Project**! Here, we take our coding as seriously as w
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#license) 
 
 ## 📝 Introduction 
 
